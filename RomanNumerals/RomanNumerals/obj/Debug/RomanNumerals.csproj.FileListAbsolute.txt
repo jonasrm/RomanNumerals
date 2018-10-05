@@ -1,0 +1,6 @@
+C:\Users\jonas.mendes\Desktop\Prova\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.exe.config
+C:\Users\jonas.mendes\Desktop\Prova\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.exe
+C:\Users\jonas.mendes\Desktop\Prova\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.pdb
+C:\Users\jonas.mendes\Desktop\Prova\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.csprojResolveAssemblyReference.cache
+C:\Users\jonas.mendes\Desktop\Prova\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.exe
+C:\Users\jonas.mendes\Desktop\Prova\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.pdb

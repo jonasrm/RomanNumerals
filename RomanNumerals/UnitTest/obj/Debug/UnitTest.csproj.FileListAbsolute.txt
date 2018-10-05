@@ -1,0 +1,7 @@
+C:\Users\jonas.mendes\Desktop\Prova\RomanNumerals\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\jonas.mendes\Desktop\Prova\RomanNumerals\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\jonas.mendes\Desktop\Prova\RomanNumerals\UnitTest\bin\Debug\RomanNumerals.exe
+C:\Users\jonas.mendes\Desktop\Prova\RomanNumerals\UnitTest\bin\Debug\RomanNumerals.pdb
+C:\Users\jonas.mendes\Desktop\Prova\RomanNumerals\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\jonas.mendes\Desktop\Prova\RomanNumerals\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\jonas.mendes\Desktop\Prova\RomanNumerals\UnitTest\obj\Debug\UnitTest.pdb
